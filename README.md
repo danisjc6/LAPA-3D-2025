@@ -1,2 +1,2 @@
 # LAPA-3D-2025
-Atualização do site LAPA 
+Atualização de Osteologia Equina (iluminação)
